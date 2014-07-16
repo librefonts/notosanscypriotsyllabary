@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="148" language="0" nGroups="11">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+      <map code="0x10800" name="glyph00004"/><!-- CYPRIOT SYLLABLE A -->
+      <map code="0x10801" name="glyph00005"/><!-- CYPRIOT SYLLABLE E -->
+      <map code="0x10802" name="glyph00006"/><!-- CYPRIOT SYLLABLE I -->
+      <map code="0x10803" name="glyph00007"/><!-- CYPRIOT SYLLABLE O -->
+      <map code="0x10804" name="glyph00008"/><!-- CYPRIOT SYLLABLE U -->
+      <map code="0x10805" name="glyph00009"/><!-- CYPRIOT SYLLABLE JA -->
+      <map code="0x10808" name="glyph00010"/><!-- CYPRIOT SYLLABLE JO -->
+      <map code="0x1080a" name="glyph00011"/><!-- CYPRIOT SYLLABLE KA -->
+      <map code="0x1080b" name="glyph00012"/><!-- CYPRIOT SYLLABLE KE -->
+      <map code="0x1080c" name="glyph00013"/><!-- CYPRIOT SYLLABLE KI -->
+      <map code="0x1080d" name="glyph00014"/><!-- CYPRIOT SYLLABLE KO -->
+      <map code="0x1080e" name="glyph00015"/><!-- CYPRIOT SYLLABLE KU -->
+      <map code="0x1080f" name="glyph00016"/><!-- CYPRIOT SYLLABLE LA -->
+      <map code="0x10810" name="glyph00017"/><!-- CYPRIOT SYLLABLE LE -->
+      <map code="0x10811" name="glyph00018"/><!-- CYPRIOT SYLLABLE LI -->
+      <map code="0x10812" name="glyph00019"/><!-- CYPRIOT SYLLABLE LO -->
+      <map code="0x10813" name="glyph00020"/><!-- CYPRIOT SYLLABLE LU -->
+      <map code="0x10814" name="glyph00021"/><!-- CYPRIOT SYLLABLE MA -->
+      <map code="0x10815" name="glyph00022"/><!-- CYPRIOT SYLLABLE ME -->
+      <map code="0x10816" name="glyph00023"/><!-- CYPRIOT SYLLABLE MI -->
+      <map code="0x10817" name="glyph00024"/><!-- CYPRIOT SYLLABLE MO -->
+      <map code="0x10818" name="glyph00025"/><!-- CYPRIOT SYLLABLE MU -->
+      <map code="0x10819" name="glyph00026"/><!-- CYPRIOT SYLLABLE NA -->
+      <map code="0x1081a" name="glyph00027"/><!-- CYPRIOT SYLLABLE NE -->
+      <map code="0x1081b" name="glyph00028"/><!-- CYPRIOT SYLLABLE NI -->
+      <map code="0x1081c" name="glyph00029"/><!-- CYPRIOT SYLLABLE NO -->
+      <map code="0x1081d" name="glyph00030"/><!-- CYPRIOT SYLLABLE NU -->
+      <map code="0x1081e" name="glyph00031"/><!-- CYPRIOT SYLLABLE PA -->
+      <map code="0x1081f" name="glyph00032"/><!-- CYPRIOT SYLLABLE PE -->
+      <map code="0x10820" name="glyph00033"/><!-- CYPRIOT SYLLABLE PI -->
+      <map code="0x10821" name="glyph00034"/><!-- CYPRIOT SYLLABLE PO -->
+      <map code="0x10822" name="glyph00035"/><!-- CYPRIOT SYLLABLE PU -->
+      <map code="0x10823" name="glyph00036"/><!-- CYPRIOT SYLLABLE RA -->
+      <map code="0x10824" name="glyph00037"/><!-- CYPRIOT SYLLABLE RE -->
+      <map code="0x10825" name="glyph00038"/><!-- CYPRIOT SYLLABLE RI -->
+      <map code="0x10826" name="glyph00039"/><!-- CYPRIOT SYLLABLE RO -->
+      <map code="0x10827" name="glyph00040"/><!-- CYPRIOT SYLLABLE RU -->
+      <map code="0x10828" name="glyph00041"/><!-- CYPRIOT SYLLABLE SA -->
+      <map code="0x10829" name="glyph00042"/><!-- CYPRIOT SYLLABLE SE -->
+      <map code="0x1082a" name="glyph00043"/><!-- CYPRIOT SYLLABLE SI -->
+      <map code="0x1082b" name="glyph00044"/><!-- CYPRIOT SYLLABLE SO -->
+      <map code="0x1082c" name="glyph00045"/><!-- CYPRIOT SYLLABLE SU -->
+      <map code="0x1082d" name="glyph00046"/><!-- CYPRIOT SYLLABLE TA -->
+      <map code="0x1082e" name="glyph00047"/><!-- CYPRIOT SYLLABLE TE -->
+      <map code="0x1082f" name="glyph00048"/><!-- CYPRIOT SYLLABLE TI -->
+      <map code="0x10830" name="glyph00049"/><!-- CYPRIOT SYLLABLE TO -->
+      <map code="0x10831" name="glyph00050"/><!-- CYPRIOT SYLLABLE TU -->
+      <map code="0x10832" name="glyph00051"/><!-- CYPRIOT SYLLABLE WA -->
+      <map code="0x10833" name="glyph00052"/><!-- CYPRIOT SYLLABLE WE -->
+      <map code="0x10834" name="glyph00053"/><!-- CYPRIOT SYLLABLE WI -->
+      <map code="0x10835" name="glyph00054"/><!-- CYPRIOT SYLLABLE WO -->
+      <map code="0x10837" name="glyph00055"/><!-- CYPRIOT SYLLABLE XA -->
+      <map code="0x10838" name="glyph00056"/><!-- CYPRIOT SYLLABLE XE -->
+      <map code="0x1083c" name="glyph00057"/><!-- CYPRIOT SYLLABLE ZA -->
+      <map code="0x1083f" name="glyph00058"/><!-- CYPRIOT SYLLABLE ZO -->
+    </cmap_format_12>
+  </cmap>
+
+</ttFont>

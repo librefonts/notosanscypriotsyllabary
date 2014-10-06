@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Cypriot Syllabary",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 7130,
+  "fonts": [
+    {
+      "name": "Noto Sans Cypriot Syllabary",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansCypriotSyllabary-Regular.ttf",
+      "postScriptName": "NotoSansCypriotSyllabary",
+      "fullName": "Noto Sans Cypriot Syllabary",
+      "copyright": "Copyright 2012, 2013 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
